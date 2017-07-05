@@ -4,4 +4,4 @@
 - The database and API calls are handled by **Hasura**.
 - The database is **Postgress**.
 
-[[https://github.com/sr6033/goPlay/blob/master/home.png|alt=goPlay]]
+![Home Page](home.png?raw=true "goPlay")
